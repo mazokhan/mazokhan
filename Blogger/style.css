@@ -1,0 +1,22 @@
+.header-container{
+    background-color: red;
+    height: 80px;
+
+}
+
+.content-container{
+    flex: 1;
+    background-color: orange;
+}
+.footer-container{
+    background-color: black;
+    height: 80px;
+    flex: 1;
+}
+.main-container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+  
+
