@@ -20,14 +20,7 @@ p{
     margin: 10px;
     padding: 10px 10px 0px;
 }
-.table-wrapper{
-display: flex;
-flex-direction: row;
 
-}
-.table-wrapper div{
-    flex:1
-}
 .text-wrapper{
     background-color: lightseagreen;
     display: inline;
